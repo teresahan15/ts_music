@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d755776-6d18-4bfe-9e02-671e73852329" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1X0v99eVgLqEB5YE3z9KJsVTnRC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\qq音乐\images" />
+      <recent name="C:\Users\Administrator\WebstormProjects\qq音乐" />
+      <recent name="C:\Users\Administrator\WebstormProjects\qq音乐\js" />
+      <recent name="C:\Users\Administrator\WebstormProjects\qq音乐\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\qq音乐\source" />
+      <recent name="C:\Users\Administrator\WebstormProjects\qq音乐" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d755776-6d18-4bfe-9e02-671e73852329" name="Default Changelist" comment="" />
+      <created>1580195672595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580195672595</updated>
+      <workItem from="1580195674048" duration="21038000" />
+      <workItem from="1580282253057" duration="21411000" />
+      <workItem from="1580446759568" duration="3636000" />
+      <workItem from="1580452323048" duration="19841000" />
+      <workItem from="1580530682836" duration="2421000" />
+      <workItem from="1580533822601" duration="17083000" />
+      <workItem from="1580788970299" duration="176000" />
+      <workItem from="1580791122867" duration="23523000" />
+      <workItem from="1580882391152" duration="289000" />
+      <workItem from="1580887244122" duration="8977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="613" y="94" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580887479378">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="613" y="94" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1580887479378" />
+    <state x="331" y="77" key="FileChooserDialogImpl" timestamp="1580475979412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="331" y="77" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580475979412" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1580555658957">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580555658957" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1580464987546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1580464987546" />
+    <state x="608" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1580465369335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="608" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580465369335" />
+  </component>
+</project>
